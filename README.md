@@ -2,8 +2,6 @@
 
 **Análise da evolução dos preços de combustíveis no Brasil com dados da ANP.**
 
-Projeto de portfólio com Python, SQL (SQLite) e estatística, usando dados de 2022 em diante.
-
 ## Status
 
 Semana 0 em andamento: preparação do repositório e do ambiente.
@@ -50,7 +48,7 @@ analise-precos-combustiveis/
    conda env create -f environment.yml
    conda activate analise-precos-combustiveis
    ```
-3. Criar as pastas `data/raw` e `data/db`.
+3. Criar as pastas `data/raw` e `data/db`
 4. Baixar os CSV da ANP para `data/raw/` (em breve).
 5. Rodar o script de carga para criar o banco em `data/db/` (em breve).
 6. Executar os notebooks em `notebooks/` (em breve).
