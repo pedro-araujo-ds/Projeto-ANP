@@ -1,0 +1,9 @@
+name: analise-precos-combustiveis
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - matplotlib
+  - jupyter
+
