@@ -4,7 +4,8 @@
 
 ## Status
 
-Semana 0 em andamento: preparação do repositório e do ambiente.
+Semana 0 concluída: preparação do repositório e do ambiente.
+Semana 1 em andamento: script de carga + arquivo(s) `.sql` com as consultas comentadas.
 
 ## Perguntas do projeto
 
